@@ -10,4 +10,11 @@ Further in this analysis, various reasons for Employee's call-outs were tried to
 Only the relevant Callout reasons were kept for analysis and several valuable insights were generated.
 Please make sure to checkout the ipynb file for the complete analysis.
 
+<ul style="margin-bottom:0in;margin-top:0in;" type="disc">
+    <li style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;font-size:11.0pt;font-family:"Calibri",sans-serif;'><strong>Objective</strong>: The analysis aims to uncover patterns in workforce callouts, identify frequent absentees, and suggest improvements for workforce management.</li>
+    <li style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;font-size:11.0pt;font-family:"Calibri",sans-serif;'><strong>Dataset</strong>: Includes employee details, callout reasons, shifts, and dates.</li>
+    <li style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;font-size:11.0pt;font-family:"Calibri",sans-serif;'><strong>Pre-processing</strong>: Involves handling duplicates, converting dates, and filtering relevant callout reasons.</li>
+    <li style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;font-size:11.0pt;font-family:"Calibri",sans-serif;'><strong>Insights</strong>: Highlights include the predominance of unscheduled sick leave, disparities in job roles, and shift-wise absenteeism patterns. Recommendations focus on wellness programs, workload distribution, and flexible scheduling</li>
+</ul>
+
 Thanks in advance
